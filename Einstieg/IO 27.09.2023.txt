@@ -1,0 +1,30 @@
+Datentypen
+	Ganzzahlen - int 32 Bit -> +- 2 Mrd(64 Bit)
+													#Bit | #Zahlen
+														1|2
+														2|4					000
+														3|8					001
+														4|16				010		4 Zahlen
+														n|2^n					011
+																			
+																			100
+																			101		
+																			110		4 Zahlen
+																			111
+																			
+			   - unsigned 32 Bit -> 0 - 4 Mrd (64 Bit)														
+																			
+																			
+																			
+																			
+	Gleitkommazahlen - float -> 7 signifikante Ziffern
+					
+					
+																			
+																			
+																			
+					- double	-> 15 signifikante Ziffern													
+																			
+																			
+																			
+																			
