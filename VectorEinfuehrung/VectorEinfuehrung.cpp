@@ -32,9 +32,9 @@ int main()
     std::cout << "Das Minimum ist: " << minimum << std::endl;
 
     std::vector<int> zufallszahlen;
-    for (int i = 0; i < 20; i++)
+    for (int i = 0; i < 20000; i++)
     {
-        zufallszahlen.push_back(rand()% 100 + 200);
+        zufallszahlen.push_back(rand()% 101 + 200);
     }
 
     int summe = 0;
